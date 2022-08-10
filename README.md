@@ -1,2 +1,2 @@
-# aws-load-balacer
+# aws-load-balancer
 aws load balacing discussed with ppt
